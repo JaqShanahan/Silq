@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaq Shanahan\\OneDrive - The Shanahans\\Desktop\\C\u002B\u002B Apps\\Silq\\Silq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E23BE8-AFD5-4762-A50E-FAE1584AC1E7}|Silq.vcxproj|C:\\Users\\Jaq Shanahan\\OneDrive - The Shanahans\\Desktop\\C\u002B\u002B Apps\\Silq\\Silq\\Silq.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9E23BE8-AFD5-4762-A50E-FAE1584AC1E7}|Silq.vcxproj|solutionrelative:Silq.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Silq.cpp",
+              "DocumentMoniker": "C:\\Users\\Jaq Shanahan\\OneDrive - The Shanahans\\Desktop\\C\u002B\u002B Apps\\Silq\\Silq\\Silq.cpp",
+              "RelativeDocumentMoniker": "Silq.cpp",
+              "ToolTip": "C:\\Users\\Jaq Shanahan\\OneDrive - The Shanahans\\Desktop\\C\u002B\u002B Apps\\Silq\\Silq\\Silq.cpp",
+              "RelativeToolTip": "Silq.cpp",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAN8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T00:12:17.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

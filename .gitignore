@@ -1,0 +1,82 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# CMake build folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+out/
+*.dir/
+
+# Compiled object files
+*.obj
+*.o
+*.lo
+*.slo
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled static libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other generated files
+*.pdb
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ilk
+
+# Backup & temporary files
+*~
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Auto-generated Visual Studio files
+*.VC.db
+*.VC.VC.opendb
+
+# Other IDE metadata
+.vscode/
+.idea/
+
+# Ignore testing & profiling outputs
+*.gcda
+*.gcno
+*.gcov
+
+# Ignore package directories
+packages/
+
+# Ignore any custom cache folders
+.cache/

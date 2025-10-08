@@ -1,0 +1,4 @@
+﻿  Silq.cpp
+C:\Users\Jaq Shanahan\OneDrive - The Shanahans\Desktop\C++ Apps\Silq\Silq\Silq.cpp(35,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Jaq Shanahan\OneDrive - The Shanahans\Desktop\C++ Apps\Silq\Silq\Silq.cpp(164,31): warning C4018: '<': signed/unsigned mismatch
+  Silq.vcxproj -> C:\Users\Jaq Shanahan\OneDrive - The Shanahans\Desktop\C++ Apps\Silq\Silq\Debug\Silq.exe
